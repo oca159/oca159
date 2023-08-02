@@ -24,7 +24,7 @@
   <a href="https://www.buymeacoffee.com/oca159" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </h1>
 
-👋 Hey there! I'm a Full Stack Developer 🚀 Passionate about crafting awesome web apps from frontend to backend. I play around with JavaScript, HTML, and CSS for the frontend magic ✨ and tinker with Node.js and databases on the backend 🛠️. Always learning and experimenting with the coolest tech out there! Let's team up and create something incredible together!
+Hey, I'm a Full Stack Developer 🚀 with experience in a bunch of cool tech! I've worked with React, Vue.js, Python, Java, Node.js, Ruby, and even dabbled in some C#. Frontend or backend, I'm up for the challenge 💪 Let's collaborate and build something amazing together!
 <br/>
 <p align="left">
   <a class="github-button" href="https://github.com/oca159/oca159/generate" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template oca159/oca159 on GitHub">Use this template</a>
