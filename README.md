@@ -7,9 +7,9 @@
 </p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/oca159/"><img height="30" src="https://raw.githubusercontent.com/oca159/oca159/master/icon/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter/oca159"><img height="30" src="https://raw.githubusercontent.com/oca159/oca159/master/icon/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://facebook/oca159"><img height="30" src="https://raw.githubusercontent.com/oca159/oca159/master/icon/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://instagram/xoca159"><img height="30" src="https://raw.githubusercontent.com/oca159/oca159/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/oca159"><img height="30" src="https://raw.githubusercontent.com/oca159/oca159/master/icon/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/oca159"><img height="30" src="https://raw.githubusercontent.com/oca159/oca159/master/icon/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/xoca159"><img height="30" src="https://raw.githubusercontent.com/oca159/oca159/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ani4aniket.visitor-badge"> -->
